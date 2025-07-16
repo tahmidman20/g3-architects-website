@@ -5,3 +5,51 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.nav-bg{
+    background-color: rgba(255, 144, 14, 0.1);
+}
+/* *shared style */
+.display-flex{
+    display: flex;
+}
+.dark-1{
+    
+}
+.dark-2{
+    color: #424242;
+}
+.dark-3{
+    
+}
+.dark-4{
+    
+}
+
+/* *header style */
+.navbar, .banner{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+/* *nav bar related style */
+.navbar{
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item{
+    list-style: none;
+    margin-right: 30px;
+   
+   
+}
+.navlink{
+text-decoration: none;
+font-weight: 500px;
+
+}
+.brand{
+    font-weight: 700;
+    font-size: 3rem;
+}
