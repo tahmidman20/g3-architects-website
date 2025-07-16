@@ -94,6 +94,7 @@ font-weight: 500px;
  /* team related style */
   .teams{
     align-items: center;
+    
   }
   .team-img-container{
     display: grid;
@@ -101,7 +102,7 @@ font-weight: 500px;
     gap: 24px;
   }
   .our-features{
-    margin-left: 130px;
+    margin-left: 100px;
     min-width: 530px;
   }
   .feature-title{
